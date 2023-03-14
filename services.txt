@@ -1,0 +1,4 @@
+mri
+xray
+physio
+chiro
